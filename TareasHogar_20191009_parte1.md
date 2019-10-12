@@ -1,6 +1,7 @@
 # TareasHogar_20191009_parte1
 
 |Tarea|Algoritmo|Negativos|Horas Corrida|Costo total corrida en USD|Meses ventana optima|Ganancia esperada en 201904_dias|
+|-----|---------|---------|-------------|--------------------------|--------------------|--------------------------------|
 |2|CART|10%|-|-|-|-| 
 |3|Random Forest|10%|-|-|-|-|
 |4|XGBoost|10%|-|-|-|-|

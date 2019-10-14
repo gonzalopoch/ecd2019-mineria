@@ -6,4 +6,4 @@
 |3|Random Forest|10%|-|-|-|-|
 |4|XGBoost|10%|-|-|-|-|
 |5|LightGBM|10%|-|-|-|-|
-|6|LightGBM|100%|-|-|-|-|
+|6|LightGBM|100%|07h 20m 18s|4.12 USD|11|9057500|
